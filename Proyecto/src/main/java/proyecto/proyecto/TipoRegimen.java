@@ -8,6 +8,6 @@ package proyecto.proyecto;
  *
  * @author DAM129
  */
-public enum SitLaboral {
-   EMPLEADO, DESEMPLEADO,AUTONOMO, RENTISTA, PENSIONISTA, ESTUDIANTE, RESPONSABLE_DEL_HOGAR
+public enum TipoRegimen {
+    GANANCIALES, SEPARACION_DE_BIENES
 }
